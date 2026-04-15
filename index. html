@@ -4,70 +4,16 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Privacy Policy - Quick Note</title>
-    <style>
-        body {
-            font-family: Arial, sans-serif;
-            line-height: 1.6;
-            margin: 40px;
-            background-color: #f9f9f9;
-            color: #333;
-        }
-        h1, h2 {
-            color: #222;
-        }
-        .container {
-            max-width: 800px;
-            margin: auto;
-            background: #fff;
-            padding: 20px;
-            border-radius: 10px;
-            box-shadow: 0 0 10px rgba(0,0,0,0.1);
-        }
-        footer {
-            margin-top: 30px;
-            font-size: 14px;
-            color: #777;
-        }
-    </style>
 </head>
 <body>
 
-<div class="container">
-    <h1>Privacy Policy for Quick Note</h1>
+<h1>Privacy Policy for Quick Note</h1>
 
-    <p>This Privacy Policy applies to the <strong>Quick Note</strong> application developed by <strong>Rangkiang Solusi</strong>.</p>
+<p>This Privacy Policy applies to the Quick Note application developed by Rangkiang Solusi.</p>
 
-    <p>Rangkiang Solusi built the Quick Note app as a free app. This service is provided by Rangkiang Solusi and is intended for use as is.</p>
+<p>Quick Note does not collect, store, or share any personal data. All data is stored locally on the user's device.</p>
 
-    <h2>Information Collection and Use</h2>
-    <p>Quick Note does not collect, store, or share any personal user data. All notes and data created within the app are stored locally on the user's device only.</p>
-
-    <h2>Log Data</h2>
-    <p>The app does not use any third-party services that collect information used to identify users.</p>
-
-    <h2>Cookies</h2>
-    <p>This app does not use cookies.</p>
-
-    <h2>Security</h2>
-    <p>We value your trust. Since no personal data is collected or transmitted, your data remains secure on your device.</p>
-
-    <h2>Links to Other Sites</h2>
-    <p>This app does not contain links to external sites.</p>
-
-    <h2>Children’s Privacy</h2>
-    <p>This app does not knowingly collect personally identifiable information from children.</p>
-
-    <h2>Changes to This Privacy Policy</h2>
-    <p>We may update our Privacy Policy from time to time. You are advised to review this page periodically for any changes.</p>
-
-    <h2>Contact Us</h2>
-    <p>If you have any questions, contact us at:</p>
-    <p><strong>Email:</strong> rangkiangsolusi@gmail.com</p>
-
-    <footer>
-        <p>Last updated: April 2026</p>
-    </footer>
-</div>
+<p>Contact: rangkiangsolusi@gmail.com</p>
 
 </body>
 </html>
